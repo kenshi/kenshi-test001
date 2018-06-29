@@ -1,0 +1,23 @@
+{
+  "name": "kenshi_test001",
+  "version": "1.0.0",
+  "description": "test mod",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenshi/kenshi-test001.git"
+  },
+  "keywords": [
+    "kenshi",
+    "test"
+  ],
+  "author": "kenshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenshi/kenshi-test001/issues"
+  },
+  "homepage": "https://github.com/kenshi/kenshi-test001#readme"
+}
